@@ -11,10 +11,9 @@
  */
 
 function getLongestString(arr) {
-if (str.length >4){
-    return str;
+
 }
-}
+
 
 
 

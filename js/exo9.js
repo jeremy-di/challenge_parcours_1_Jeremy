@@ -12,7 +12,7 @@
 
 
 function sum(arr) {
-return arr++;
+
 
 }
 

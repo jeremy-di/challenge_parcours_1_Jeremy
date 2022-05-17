@@ -11,7 +11,7 @@
  */
 
 function getExtension(str) {
-return str.split(".").pop();
+
 }
 
 let str = "hghiuhgkj.jhdgfh"
